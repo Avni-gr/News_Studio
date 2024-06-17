@@ -1,13 +1,10 @@
 # News_Studio
-Dynamic web application to fetch and display the latest news articles using the News API.
+News Studio is your go-to destination for the latest updates and comprehensive news coverage. Our platform delivers breaking news, in-depth articles, and engaging short video clips across various topics, including politics, technology, entertainment, sports, and more. With a user-friendly design, our website ensures a seamless browsing experience, allowing you to stay informed with ease.
 
-# TaskTrack
-Welcome to Task Tracker, a simple yet effective web application designed to help you manage your tasks effortlessly. With Task Tracker, you can easily add, delete, and keep track of your tasks, ensuring that nothing falls through the cracks.
 
 # Features
-- Add Tasks: Quickly add new tasks to your list with a simple, intuitive interface.
-- Delete Tasks: Remove tasks that are completed or no longer needed with a single click.
-- Persistent Storage: Your tasks are saved locally, so they remain intact even if you refresh or close the page. No need to worry about losing your task list!
+- Access a wide range of topics including politics, sports, technology, entertainment, and more.
+- searching option for search the news according to your preference just by enter a keyword.
 
 ### Table of contents
 
@@ -25,7 +22,7 @@ Welcome to Task Tracker, a simple yet effective web application designed to help
 
 ### Links
 
-- Live Site URL: (https://avni-gr.github.io/TaskTrack/)
+- Live Site URL: (https://avni-gr.github.io/News_Studio/)
 
 ## My process
 
